@@ -32,8 +32,8 @@ Targets
 * Mash 17.5L @ 66C for 90m
 * Top up with 2L
 
-       | Pre Boil      | OG          | FG
---------------------------------------------
+      | Pre Boil      | OG          | FG
+------ | ------------- | ----------- | ------
 Target | 16.5L @ 14.9B | 12L @ 17.4B | 4B
 Actual | 17L @ 12B     | 13L @ 1.063 |
 
